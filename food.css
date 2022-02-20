@@ -1,0 +1,63 @@
+body {
+	padding: 150px;
+	background: cover;
+	background-color: pink;
+	height: 200px;
+}
+fieldset {
+	background-image: url(https://static01.nyt.com/images/2021/01/26/well/well-foods-microbiome/well-foods-microbiome-jumbo.jpg?quality=75&auto=webp);
+	background-size: cover;
+	padding: 100px;
+	color: rgba(0,0,0,1);
+}
+ul li {
+	display: inline;
+	font-size: 30px;
+	word-spacing: 20px;
+}
+input {
+	display: block;
+}
+.nav {
+	height: 100px;
+	display: block;
+	text-align: right;
+	margin: 0px;
+	padding: 20px 0px 20px 8px;
+	border-width: 50px;
+}
+#main1 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#main2 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#main3 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#main4 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#main5 {
+	margin: 100px;
+	display:flex;
+	flex-direction: column;
+}
+#main6 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#main7 {
+	margin: 100px;
+	display: flex;
+	flex-direction: column;
+}
